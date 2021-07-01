@@ -30,7 +30,7 @@ class Video
     private $path;
 
     /**
-     * @ORM\Column(type="integer", nullable=true)
+     * @ORM\Column(type="integer")
      */
     private $duration;
 
